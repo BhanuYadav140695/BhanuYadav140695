@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yadav Bhanu Pratap
-- 👀 I’m interested in Data Science And Machine Learning .
+- 👀 I Know Java ,Python ,Data Science and Android Development.
 - 🌱 I’m Computer Engineering graduate .
 - 📫 You Can E mail me on this id bhanupratapyadav22@gmail.com
 
